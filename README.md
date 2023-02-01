@@ -1,9 +1,13 @@
 # Cookies
 
 First I Find the total number of cookies.
+
 Second one I Print all the cookies.
+
 Third I get the cookies by their name.
+
 Fourth I add new cookie.
+
 Sixth Delete all cookies.
 
 
